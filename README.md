@@ -16,3 +16,6 @@ Just like most of the other shells we have divided our shell into 4 parts:
 3. [Expander](https://github.com/gjupy/minishell/tree/main/expander)
 4. [Executor](https://github.com/gjupy/minishell/tree/main/executor)
 
+### Helpful ressources we used
+- https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
+- https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
