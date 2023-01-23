@@ -5,7 +5,7 @@
 ## Our Minishell
 ### The basic functionalities of the project
 - this is a shell that can be compiled by running<br>`make`<br>and then to run it<br>`./minishell`<br>or instead you can run<br>`make test`
-- now you are greeted with a prompt `minishell$ `&nbsp;waiting for input just like any other shell
+- now you are greeted with a prompt `teshno-1.0$ `&nbsp;waiting for input just like any other shell
 - this project uses the readline libraries `readline/history.h` and `readline/readline.h` you can install those via `brew install readline` or `apt-get install libreadline-dev`, thanks to those there is a working history of used commands
 - there is some memory-leaks caused by the readline-library
 
