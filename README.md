@@ -1,5 +1,4 @@
 # minishell
-### Recreation of some of the functionalities of bash (Version 3.2).<br>
 ### from [@byte-pusher](https://github.com/byte-pusher) and [@gjupy](https://github.com/gjupy)<br>
 
 ## Our Minishell
