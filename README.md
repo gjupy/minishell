@@ -15,6 +15,6 @@ Just like most of the other shells we have divided our shell into 4 parts:
 - there is some memory-leaks caused by the readline-library
 
 ### Helpful ressources we used
-- https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
-- https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
-- https://brennan.io/2015/01/16/write-a-shell-in-c/
+- [Rodriguez-Rivera; Ennen (2014): Introduction to Systems Programming - chapter 5] (https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf)
+- [The Open Group Base Specifications Issue 6 (2004)] (https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html)
+- [Brennan 2015: Tutorial - Write a shell in C] https://brennan.io/2015/01/16/write-a-shell-in-c/
